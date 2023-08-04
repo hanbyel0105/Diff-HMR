@@ -1,4 +1,4 @@
-# Diffusion-based Human Mesh Recovery (Diff-HMR)
+# Diff-HMR: Diffusion-based Human Mesh Recovery
 
 **This is the official PyTorch implementation of the approach described in the following paper:**
 > [Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models](https://arxiv.org/abs/2111.15056?context=cs)\
