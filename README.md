@@ -30,5 +30,5 @@ If you use our code/models in your research, please cite our paper:
 ```
 
 ## Acknowledgement
-Part of our code is borrowed from [SPIN](https://github.com/nkolot/SPIN) and [DDPM-PyTorch](https://github.com/lucidrains/denoising-diffusion-pytorch).
+Part of our code is borrowed from [SPIN](https://github.com/nkolot/SPIN) and [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch).\
 Please refer to their project pages for further information.
