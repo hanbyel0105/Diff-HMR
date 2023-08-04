@@ -1,7 +1,7 @@
 # Diffusion-based Human Mesh Recovery (Diff-HMR)
 
 **This is the official PyTorch implementation of the approach described in the following paper:**
-> [Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models](https://arxiv.org/abs/2111.15056?context=cs)
+> [Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models](https://arxiv.org/abs/2111.15056?context=cs)\
 > [Hanbyel Cho](https://scholar.google.com/citations?user=VvNXbu8AAAAJ&hl=ko) and [Junmo Kim](https://scholar.google.com/citations?hl=ko&user=GdQtWNQAAAAJ)
 > IEEE International Conference on Computer Vision (ICCV), 2023, CV4Metaverse Workshop (submitted)
 
