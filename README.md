@@ -1,7 +1,7 @@
 # Diff-HMR: Diffusion-based Human Mesh Recovery (ICCV'23, CV4Metaverse (submitted))
 
 **This is the official PyTorch implementation of the approach described in the following paper:**
-> [Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models](https://arxiv.org/abs/2111.15056?context=cs)\
+> [Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models](https://arxiv.org/abs/2308.02963)\
 > [Hanbyel Cho](https://scholar.google.com/citations?user=VvNXbu8AAAAJ&hl=ko) and [Junmo Kim](https://scholar.google.com/citations?hl=ko&user=GdQtWNQAAAAJ)\
 > IEEE/CVF International Conference on Computer Vision ([ICCV](https://iccv2023.thecvf.com/)), 2023, [CV4Metaverse](https://sites.google.com/view/cv4metaverse/home?authuser=0) Workshop (submitted)
 
@@ -19,13 +19,13 @@ Make sure you have the following dependencies installed before proceeding:
 This work is licensed under CC BY-NC. See LICENSE for details. Third-party datasets are subject to their respective licenses.
 If you use our code/models in your research, please cite our paper:
 ```
-@InProceedings{Cho_2021_ICCV,
-    author    = {Cho, Hanbyel and Cho, Yooshin and Yu, Jaemyung and Kim, Junmo},
-    title     = {Camera Distortion-Aware 3D Human Pose Estimation in Video With Optimization-Based Meta-Learning},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2021},
-    pages     = {11169-11178}
+@misc{cho2023generative,
+      title={Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models}, 
+      author={Hanbyel Cho and Junmo Kim},
+      year={2023},
+      eprint={2308.02963},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
