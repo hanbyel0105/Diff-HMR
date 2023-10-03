@@ -19,13 +19,13 @@ Make sure you have the following dependencies installed before proceeding:
 This work is licensed under CC BY-NC. See LICENSE for details. Third-party datasets are subject to their respective licenses.
 If you use our code/models in your research, please cite our paper:
 ```
-@misc{cho2023generative,
-      title={Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models}, 
-      author={Hanbyel Cho and Junmo Kim},
-      year={2023},
-      eprint={2308.02963},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Cho_2023_ICCV,
+    author    = {Cho, Hanbyel and Kim, Junmo},
+    title     = {Generative Approach for Probabilistic Human Mesh Recovery Using Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {4183-4188}
 }
 ```
 
